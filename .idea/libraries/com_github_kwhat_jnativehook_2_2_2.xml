@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.kwhat:jnativehook:2.2.2" type="repository">
+    <properties maven-id="com.github.kwhat:jnativehook:2.2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/jnativehook-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

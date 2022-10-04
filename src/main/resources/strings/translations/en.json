@@ -1,0 +1,21 @@
+{
+  "file": "File",
+  "admin": "Admin",
+  "options": "Options",
+  "exit": "Exit",
+  "startServer": "Start Server",
+  "pauseServer": "Pause Server",
+  "enableClient": "Enable Client",
+  "disableClient": "Disable Client",
+  "edit": "Edit",
+  "help": "Help",
+  "about": "About",
+  "clients": "Clients",
+  "qrCode": "QR Code",
+  "remoteControlDisabled": "Remote control disabled",
+  "remoteControlEnabled": "Remote control enabled",
+  "showHideUI": "Show / Hide UI",
+  "quit": "Quit",
+  "running": "Running",
+  "paused": "Paused"
+}

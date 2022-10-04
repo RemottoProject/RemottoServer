@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="io.nayuki:qrcodegen:1.8.0" type="repository">
+    <properties maven-id="io.nayuki:qrcodegen:1.8.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/qrcodegen-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

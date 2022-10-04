@@ -1,0 +1,21 @@
+{
+  "file": "Arquivo",
+  "admin": "Administração",
+  "options": "Opções",
+  "exit": "Sair",
+  "startServer": "Iniciar Servidor",
+  "pauseServer": "Pausar Servidor",
+  "enableClient": "Habilitar Cliente",
+  "disableClient": "Desabilitar Cliente",
+  "edit": "Editar",
+  "help": "Ajuda",
+  "about": "Sobre",
+  "clients": "Clientes",
+  "qrCode": "Código QR",
+  "remoteControlDisabled": "Controle remoto desabilitado",
+  "remoteControlEnabled": "Controle remoto habilitado",
+  "showHideUI": "Exibir / Ocultar UI",
+  "quit": "Sair",
+  "running": "Executando",
+  "paused": "Pausado"
+}
