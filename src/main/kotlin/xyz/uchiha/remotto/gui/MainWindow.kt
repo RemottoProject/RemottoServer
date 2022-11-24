@@ -186,7 +186,7 @@ class MainWindow(var windowTitle: String, private val port: Int = 10325) : JFram
         }
         helpAction.addActionListener {
             println("help")
-            ThemeSettings.showSettingsDialog(parent)
+            //ThemeSettings.showSettingsDialog(parent)  // only for development
         }
         aboutAction.addActionListener {
             println("about")

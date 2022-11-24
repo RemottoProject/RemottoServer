@@ -14,7 +14,7 @@ fun main() {
 
         val app = MainWindow("Remotto Server")
         app.startServer()
-        app.isVisible = true
+        //app.isVisible = true  // only for development
     }
 }
 
